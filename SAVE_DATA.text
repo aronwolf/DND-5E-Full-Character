@@ -1,0 +1,389 @@
+{
+    "Stats": {
+        "strength": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        },
+        "dexterity": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        },
+        "constitution": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        },
+        "intelligence": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        },
+        "wisdom": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        },
+        "charisma": {
+            "base": 0,
+            "mod": 0,
+            "save": 0
+        }
+    },
+    "saving_throws": {},
+    "initiative": 0,
+    "Languages": {
+        "common": "Common"
+    },
+    "name": "",
+    "total_level": 0,
+    "caster_level": 0,
+    "half_caster_level": 0,
+    "semi_caster_level": 0,
+    "spell_slots": {
+        "first": 0,
+        "second": 0,
+        "third": 0,
+        "fourth": 0,
+        "fifth": 0,
+        "sixth": 0,
+        "seventh": 0,
+        "eighth": 0,
+        "ninth": 0
+    },
+    "pact_magic": {
+        "first": 0,
+        "second": 0,
+        "third": 0,
+        "fourth": 0,
+        "fifth": 0
+    },
+    "initial_class": "",
+    "player_class": {
+        "artificer": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "barbarian": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "bard": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "cleric": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "druid": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "fighter": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "monk": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "paladin": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "ranger": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "rogue": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "sorcerer": {
+            "class_level": 0,
+            "subclass": ""
+        },
+        "warlock": {
+            "class_level": 0,
+            "subclass": "",
+            "pact": ""
+        },
+        "wizard": {
+            "class_level": 0,
+            "subclass": ""
+        }
+    },
+    "Tools": {},
+    "tool_expertise": {},
+    "dragonmark": {},
+    "aberrant_check": "",
+    "boon": {},
+    "spell_modifier": {
+        "constitution": {
+            "attack": 0,
+            "save": 0
+        },
+        "intelligence": {
+            "attack": 0,
+            "save": 0
+        },
+        "wisdom": {
+            "attack": 0,
+            "save": 0
+        },
+        "ki_save": 0,
+        "charisma": {
+            "attack": 0,
+            "save": 0
+        }
+    },
+    "speed": 0,
+    "unarmored_movement_barbarian": 0,
+    "unarmored_movement_monk": 0,
+    "climb_speed": 0,
+    "swim_speed": 0,
+    "fly_speed": 0,
+    "size": "",
+    "Kits": {},
+    "hp": 0,
+    "d6": 0,
+    "d8": 0,
+    "d10": 0,
+    "d12": 0,
+    "Vehicles": {},
+    "race": "",
+    "background": "",
+    "Instruments": {},
+    "Gaming_Set": {},
+    "Weapon_Prof": {},
+    "Armor_Prof": {},
+    "chest_equip_armor": {},
+    "shield_equip_armor": {},
+    "boots_equip_armor": {},
+    "bracers_equip_armor": {},
+    "magical_items": {},
+    "attuned_items": {},
+    "weapons": {},
+    "chest_armor": "",
+    "shield": "",
+    "boots": "",
+    "bracers": "",
+    "armor_class": 0,
+    "base_armor_class": 0,
+    "natural_armor_class": 0,
+    "monk_armor_class": 0,
+    "barbarian_armor_class": 0,
+    "sorcerer_armor_class": 0,
+    "passive_perception": 0,
+    "sorcery_points": 0,
+    "martial_arts": "",
+    "ki_points": 0,
+    "ki_save": 0,
+    "rage": 0,
+    "rage_damage": 0,
+    "sneak_attack": 0,
+    "inspiration_die": "",
+    "metamagic": {},
+    "metamagic_adept": {},
+    "elemental_disciplines": {},
+    "invocations": {},
+    "pact_invocations": {},
+    "influence": {},
+    "infusions": {},
+    "maneuvers": {
+        "types": {},
+        "die": "",
+        "number": 0,
+        "d6": 0
+    },
+    "fighter_fighting_styles": {},
+    "ranger_fighting_styles": {},
+    "paladin_fighting_styles": {},
+    "special_fighting_styles": {},
+    "spells": {
+        "cantrips": {},
+        "first": {},
+        "second": {},
+        "third": {},
+        "fourth": {},
+        "fifth": {},
+        "sixth": {},
+        "seventh": {},
+        "eighth": {},
+        "ninth": {}
+    },
+    "special_spells": {
+        "cantrips": {},
+        "first": {},
+        "second": {},
+        "third": {},
+        "fourth": {},
+        "fifth": {},
+        "sixth": {},
+        "seventh": {},
+        "eighth": {},
+        "ninth": {},
+        "racial_spells": {},
+        "fighting_cleric": {},
+        "fighting_druid": {},
+        "tome_cantrips": {},
+        "tome_ritual": {}
+    },
+    "class_spells": {
+        "artificer": {
+            "artificer_cantrips": {},
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {}
+        },
+        "bard": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {}
+        },
+        "bard_cantrips": {},
+        "cleric": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {}
+        },
+        "cleric_cantrips": {},
+        "druid": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {}
+        },
+        "druid_cantrips": {},
+        "fighter": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {}
+        },
+        "fighter_cantrips": {},
+        "fighter_special": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {}
+        },
+        "paladin": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {}
+        },
+        "ranger": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {}
+        },
+        "rogue": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {}
+        },
+        "rogue_cantrips": {},
+        "rogue_special": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {}
+        },
+        "sorcerer": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {}
+        },
+        "sorcerer_cantrips": {},
+        "warlock": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {},
+            "sixth_level_arcanum": {},
+            "seventh_level_arcanum": {},
+            "eighth_level_arcanum": {},
+            "ninth_level_arcanum": {}
+        },
+        "warlock_cantrips": {},
+        "wizard": {
+            "first": {},
+            "second": {},
+            "third": {},
+            "fourth": {},
+            "fifth": {},
+            "sixth": {},
+            "seventh": {},
+            "eighth": {},
+            "ninth": {}
+        },
+        "wizard_cantrips": {}
+    },
+    "gold": 0,
+    "Equipment": {},
+    "Misc": {},
+    "favored_enemies": {},
+    "favored_terrain": {},
+    "feats": {},
+    "racial_features": {},
+    "features": {},
+    "prof_bonus": 0,
+    "skill_prof": {},
+    "expertise": {},
+    "acrobatics": 0,
+    "animal_handling": 0,
+    "arcana": 0,
+    "athletics": 0,
+    "deception": 0,
+    "history": 0,
+    "insight": 0,
+    "intimidation": 0,
+    "investigation": 0,
+    "medicine": 0,
+    "nature": 0,
+    "perception": 0,
+    "performance": 0,
+    "persuasion": 0,
+    "religion": 0,
+    "sleight_of_hand": 0,
+    "stealth": 0,
+    "survival": 0
+}
