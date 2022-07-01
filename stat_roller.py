@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #import random, dnd_dict, dnd_class,re
-import random, dnd_dict, dnd_class,re,backup_dict,dnd_save_load,json,dnd_class,dnd_skills
+import random, dnd_dict, dnd_class,re #,backup_dict,
+import dnd_save_load,json,dnd_class,dnd_skills
 
 
 # If the sum of the rolls is less than 70, reroll. Otherwise, print the results as normal. Retry if there are 5 failed attempts
